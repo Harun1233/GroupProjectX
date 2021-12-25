@@ -4,5 +4,7 @@ public class TC002 {
 
     //work2
 
+    //added part3 as requested
+
     //completed
 }
